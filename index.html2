@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Caffeine Withdrawal</title>
+  </head>
+  <body>
+  <div>
+		<a href="problem-set-3/index.html">Home</a>
+<a href ="problem-set-3/index.html2">Caffeine WIthdrawal</a>
+<a href="problem-set-3/index.html3">Benefits of Caffeine</a>
+<a href="problem-set-3/index.html4">The Best Coffees/Lattes</a>
+</div>
+  <h1>Caffeine Withdrawal</h1>
+  <img src="Images/download8.jpeg">
+<p>Like previously said, caffeine is similar to a drug, you body gets hooked on it. When a person a stops taking a drug they have 
+been using, they suffer from severe symptoms.<br/>These symptoms are a part of withdrawal. Since caffeine is similar to a drug, an 
+individual will go through caffeine withdrawal if they stop injesting caffeine. Luckily, the symptoms are more minor than the 
+symptoms you get from real drugs, i.e. vommiting. Below is a list of possible caffeine withdrawal symptoms.</p>
+<ul>
+        <li>Headaches</li>
+        <li>Fatigue</li>
+        <li>Anxiety</li>
+        <li>Irritability</li>
+        <li>Decreased concentration</li>
+        <li>Tremors (only occurs if you are extremely dependent on caffeine)</li>
+      </ul>
+      <hr/>
+<h2>Low-Caffeine Coffees</h2>
+
+<p>Sometimes it is too hard for people to completely quit caffeine. An alternative to quitting is to lower the amount caffeine in 
+your coffee. Doing this will still let you<br/> have some caffeine, but a healthy amoount. Perhaps, you could kill your caffeine 
+if you keep lowering the doeses of caffeine. In order to do this process, I have provided a table with low-caffine coffees.</p>
+  
+  <table border= "1">
+        <thead>
+          <tr>
+            <th>Coffee</th>
+            <th>Caffeine Content</th>
+          </tr>
+       </thead>
+       <tbody>
+         <tr>
+           <td>Robusta coffee</td>
+           <td>140–200 mg caffeine per 6 ounce average cup</td>
+         </tr>
+         <td>Arabic coffee</td>
+         <td> 75-130 mg avg 6 ounce cup</td>
+       </tr>
+       <tr>
+         <td>Arabica/Excelsa blend coffee</td>
+         <td>40–60 mg average 6 ounce cup</td>
+        <tr>
+          <td>Espresso</td>
+          <td>30–50 mg average 1 ounce cup</td>
+      </tr>
+      <tr>
+        <td>Instant coffee</td>
+        <td>40–100 mg average 6 ounce cup</td>
+      </tr>
+      <tr>
+        <td>97% decaf coffee</td>
+        <td>3–6 mg caffeine per 6-7 ounces average cup</td>
+      </tr>
+      <tr>
+        <td>99.92% Euro decaf standard coffee</td>
+        <td>8–16 mg caffeine per 6-7 ounces average cup</td>
+      </tr>
+      </tbody>
+    </table>
+</body>
+ <footer>
+    <p>&copy 2018 Contact info: <a href= "info@example.com">info@example.com</a>
+    <a href= "https://www.ucvts.tec.nj.us/domain/16#calendar4326/20181008/month | APSCS">AIT | APSCS</a></p>
+  </footer>
