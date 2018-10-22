@@ -1,0 +1,91 @@
+<style type="text/css">
+html, body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+h1 {
+ font-family: "Arial";
+ color: maroon;
+ font-size: 40px;
+}
+
+h4 {
+  font-family: "helvetica"
+  color: "chocolate"
+}
+
+body {
+  background-color: sienna
+}
+
+a:hover {
+  font-weight: bold;
+  color: ivory;
+}
+
+* {
+  color: maroon;
+}
+
+#meme {
+  border: 2px solid;
+  height: 600px;
+  width: 600px;
+  margin-left: 380px;
+}
+
+#coffee{
+  width: 1255px;
+  height: 490px;
+  border: 4px solid;
+  border-color: saddlebrown;
+}
+
+#bestcoffees {
+  border-radius: 25px;
+  height: 500px;
+  margin-top: 10px;
+  border: 2px solid;
+}
+
+#heart {
+  width: 800px;
+  height: 500px;
+  margin-left: 230px;
+  border: 4px solid;
+}
+
+table {
+  border: 2px solid peru;
+}
+
+li.nav {
+    display: inline;
+}
+
+.home {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    margin-left: 60px;
+    border-right: 3px solid maroon;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+hr {
+  color: maroon;
+}
+
+</style>
