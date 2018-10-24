@@ -76,6 +76,8 @@ li a {
     text-align: center;
     text-decoration: none;
     display: inline;
+    padding-right: 50px;
+    font-size: 25px;
     margin-left: 60px;
     border-right: 3px solid maroon;
 }
