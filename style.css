@@ -90,6 +90,10 @@ a:active {
     color: chocolate;
 }
 
+a:visited {
+    color: brown;
+}
+
 hr {
   color: maroon;
 }
